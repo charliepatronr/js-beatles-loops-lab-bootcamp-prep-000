@@ -1,6 +1,7 @@
 // add solution here
-let arr = [];
+
 function theBeatlesPlay(musicianArr, instArr){
+  let arr = [];
 for (let i = 0 ; i < musicianArr.length; i ++){
    arr.push(musicianArr[i] + " plays " + instArr[i]);
 }
