@@ -9,7 +9,7 @@ return arr;
 
 
 let i  = 0; 
-var newArr =[];
+let newArr =[];
 
 
 function johnLennonFacts(arr){
