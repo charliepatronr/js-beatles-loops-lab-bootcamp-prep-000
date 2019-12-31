@@ -8,11 +8,12 @@ return arr;
 }
 
 
-let i  = 0; 
-let newArr =[];
+
 
 
 function johnLennonFacts(arr){
+let i  = 0; 
+let newArr =[];
    while(i < arr.length){
       newArr.push(arr[i].concat("!!!"));
       i++;
