@@ -8,7 +8,7 @@ return arr;
 }
 
 
-var i  = 0; 
+let i  = 0; 
 var newArr =[];
 
 
